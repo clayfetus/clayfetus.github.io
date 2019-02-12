@@ -1,0 +1,44 @@
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>[FB Test Page] Bruno Test Page</title>
+    <link>http://www.test.com/</link>
+    <description>
+      Read our awesome news every day.
+    </description>
+    <language>en-us</language>
+    <lastBuildDate>2019-02-12 10:57:01</lastBuildDate>
+    <item>
+      <title>Bruno's sample article.</title>
+      <link>http://clayfetus.github.io/brunosouto/brunosouto/testarticle:timestamp:1549997821</link>
+      <guid>b35ddb40-deda-c4a4-adb9-dddbb9cc1bda</guid>
+      <pubDate>2019-02-12 10:57:01</pubDate>
+      <content:encoded>
+        <![CDATA[
+              <!doctype html>
+      <html lang="en" pxrefix="op: http://media.facebook.com/op#">
+        <head>
+          <meta charset="utf-8">
+          <link rel="canonical" href="http://clayfetus.github.io/brunosouto/brunosouto/testarticle:timestamp:1549997821">
+          <title>Bruno's sample article.</title>
+        </head>
+        <body>
+          <article>
+            <header>
+              <h1>RSS Test 1</h1>
+              <time class="op-published" datetime="2019-02-12 10:57:01">2019-02-12 10:57:01</time>
+              <time class="op-modified" datetime="2019-02-12 10:57:01">2019-02-12 10:57:01</time>
+            </header>
+            
+            <p>
+              This article is a sample article!
+              Bunnylol `iam` to get sample markup.
+            </p>
+  
+          </article>
+        </body>
+      </html>
+            ]]>
+      </content:encoded>
+    </item>
+  </channel>
+</rss>
